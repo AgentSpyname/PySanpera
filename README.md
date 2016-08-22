@@ -4,7 +4,7 @@
 PySanpera is a collection of Python modules and scripts for interfacing with the Peavey Vyper Series of Amps. It was designed to use the same MIDI Commands that the offical Sanpera pedal does! The scripts can be used to build your own programs for custom footcontrollers, etc. Keep in mind that some scripts won't make sense to use stand-alone. **You will most likely have to make modifications and add some hardware to make it practical.** 
 
 ## License 
-See LICENSE. 
+See [LICENSE](https://github.com/AgentSpyname/PySanpera/blob/master/LICENSE). 
 
 ##Requirements
 * Python 3.5 and Pip3 or Higher
