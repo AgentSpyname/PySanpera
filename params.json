@@ -1,0 +1,6 @@
+{
+  "name": "PySanpera",
+  "tagline": " A collection of Python modules and scripts for interfacing with the Peavey Vyper Series of Amps. ",
+  "body": "### What is PySanpera\r\nPySanpera is a collection of Python modules and scripts for interfacing with the Peavey Vyper Series of Amps. It was designed to use the same MIDI Commands that the offical Sanpera pedal does! The scripts can be used to build your own programs for custom footcontrollers, etc. \r\n\r\n### How Do I Get Started?\r\nHeading over to the Github Repo or downloading the Zip or Tarball for PySanpera is the best place to start. There you can read up on exactly what requirements you need, and view some example code. \r\n  \r\n### Is It Free to Use?\r\nPySanpera is licensed under the GPL(General Public License). Read the License file for more information on how it works. If you are confused on how it works, take a look at this: [http://choosealicense.com/licenses/gpl-3.0/](http://choosealicense.com/licenses/gpl-3.0/)\r\n\r\n### Authors and Contributors\r\nCreated By - @AgentSpyname \r\n\r\nThis program being possible is thanks to the Peavey Community, at Peavey Forums. I used [this thread](https://peavey.com/forum/viewtopic.php?f=33&t=13970) to build this project.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
