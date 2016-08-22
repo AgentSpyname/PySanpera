@@ -1,7 +1,7 @@
 # PySanpera
 
 ##Intro
-PySanpera is a collection of Python modules and scripts for interfacing with the Peavy Vyper Series of Amps. It was designed to use the same MIDI Commands that the offical Sanpera pedal does! The scripts can be used to build your own programs for custom footcontrollers, etc. Keep in mind that some scripts won't make sense to use stand-alone. **You will most likely have to make modifications and add some hardware to make it practical.** 
+PySanpera is a collection of Python modules and scripts for interfacing with the Peavey Vyper Series of Amps. It was designed to use the same MIDI Commands that the offical Sanpera pedal does! The scripts can be used to build your own programs for custom footcontrollers, etc. Keep in mind that some scripts won't make sense to use stand-alone. **You will most likely have to make modifications and add some hardware to make it practical.** 
 
 ## License 
 See LICENSE. 
@@ -26,9 +26,9 @@ There a few directories with scripts in this project:
 ### Future Additions
 
  - **Stompbox** - Ability to change the selected Stomp
- - **Reverb/Delay Control **
+ - **Reverb/Delay Control**
  - **Tap Tempo**
  - **Wah Wah** - Ability to control Wah. 
- - **Volume ** - Ability to change the amp volume(pedal)
- - **Extra Presets ** - Ability to use up to the 412 presets. 
+ - **Volume** - Ability to change the amp volume(pedal)
+ - **Extra Presets** - Ability to use up to the 412 presets. 
 
