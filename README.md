@@ -9,6 +9,7 @@ See [LICENSE](https://github.com/AgentSpyname/PySanpera/blob/master/LICENSE).
 ##Requirements
 * Python 3.5 and Pip3 or Higher
 * python-rtmidi
+* EasyGui 0.96.0 or Below
 * Peavey Vyper Amp that supports the Sanpera Pedal (Tested on VIP-1)
 * MIDI-USB Interface or USB Type-A to USB-Type B Cable
 
@@ -22,6 +23,7 @@ There a few directories with scripts in this project:
 
  - **Looper** - looper --> Contains the code with a basic program to control the onboard looper, with start/stop, and reset. 
  - **Presets** - preset_change --> Contains code to cycle between Presets 1-12 on your amp. 
+ - **Examples** - examples --> These contain some example scripts which showcase how you can use the scripts in this project to make your own.
 
 ### Future Additions
 
